@@ -1,9 +1,12 @@
-Grocery: [Internship Program Project](https://github.com/smartinternz02/SPSGP-94220-Virtual-Internship---Android-Application-Development-Using-Kotlin)
+Grocery: [Internship Program Project]
 ==================================
-![.](https://media.giphy.com/media/Mr944mRsG5C3AMqwEL/giphy.gif)
+![grocery app gifnew](https://user-images.githubusercontent.com/98542941/191750916-5afdc6aa-c10c-46ab-9e90-cc2059978e2a.gif)
+screenshots.![Screenshot_20220922_174513](https://user-images.githubusercontent.com/98542941/191751241-fbb6e62b-16ba-4651-ba4a-57ef78206b9d.png)
+
+![Screenshot_20220922_174548](https://user-images.githubusercontent.com/98542941/191751268-255d2c37-cc4a-435b-aed3-225effa70c32.png)
 
 
-- <b>Digital Grocery List</b> - As we can't remember everything, users frequently go to store & forget to buy the things they want to buy. However, with the assistance of <b>GoStore</b> app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+- <b>Digital Grocery List</b> - As we can't remember everything, users frequently go to store & forget buying  things they want to buy. However, with the assistance of <b>GoStore</b> app, you can make a list of the groceries you intend to buy so that you don't forget anything.
 
 Prerequisites
 ------------
