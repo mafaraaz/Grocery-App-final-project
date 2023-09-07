@@ -21,6 +21,16 @@ Presenting the project  Grocery List to you!
 
 # APK: https://github.com/mafaraaz/Grocery-App-final-project/blob/master/Apk/app-debug.apk?raw=true
 
+# Certificate Of Internship
+
+![Screenshot (481)](https://github.com/mafaraaz/Grocery-App-final-project/assets/98542941/ef8468af-c4e4-471b-bc93-533d99a9c1df)
+
+[Abdul_Samad_VIP_Google_Android_virtual_internship_certificate.pdf](https://github.com/mafaraaz/Grocery-App-final-project/files/12548477/Abdul_Samad_VIP_Google_Android_virtual_internship_certificate.pdf)
+
+# Project Report
+[Android Development  ProjectReport .pdf](https://github.com/mafaraaz/Grocery-App-final-project/files/12548487/Android.Development.ProjectReport.pdf)
+
+
 Prerequisites
 ------------
 
